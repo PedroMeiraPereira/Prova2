@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prova2</string>
+    <string name="fatura_atual">FATURA ATUAL</string>
+    <string name="disponivel">Disponível R$</string>
+</resources>
